@@ -21,7 +21,7 @@ TL;DR; training my brain to use pointers and references, object oriented program
  
 My workflow would generally start by solving the problem with Python first, then C, then Haskell.
 
-If you find any possible improvements, suggestions, or errors, please submit a [issue](https://github.com/SungJKK/ds-algo-c/issues).
+If you find any possible improvements, suggestions, or errors, please submit a [issue](https://github.com/SungJKK/coding-problems/issues).
 
 ## Author
 Sung Joong Kim
