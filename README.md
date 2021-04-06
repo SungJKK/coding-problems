@@ -2,9 +2,10 @@
 solved in Python, Haskell, C
 
 ## Practice problem sources 
-The problems solved here are taken from these 2 sites : 
+The problems solved here are taken from these 3 sites : 
 - [GeeksforGeeks](https://practice.geeksforgeeks.org/explore/?problemType=full&page=1)
 - [leetcode](https://leetcode.com/problemset/algorithms/)
+- [haskell99](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems)
 
 Each directory would consist a README file explaining the problem to solve, and files that solve the problem.
 
